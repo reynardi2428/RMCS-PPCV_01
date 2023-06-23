@@ -1,2 +1,2 @@
 # RMCS-PPCV_01
-Repository for code used in experiment for Research Methodology
+Repository for code used in experiment for Research Methodology in Computer Science
